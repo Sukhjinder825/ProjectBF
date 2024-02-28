@@ -22,7 +22,7 @@
       "titleBar.activeBackground": "#ba2807",
       "titleBar.activeForeground": "#e7e7e7",
       "titleBar.inactiveBackground": "#ba280799",
-      "titleBar.inactiveForeground": "#e7e7e799",
+      "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#ba2807",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
